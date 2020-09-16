@@ -1,0 +1,39 @@
+{
+"embed": {
+
+    "description": "```LuckPerms is an advanced permissions implementation aiming to be a fast, reliable and flexible alternative to existing permission plugins.```",
+    "url": "https://luckperms.net/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://luckperms.net/img/logo.b5b1477f.png"
+    },
+
+    "author": {
+      "name": "LuckPerms",
+      "url": "https://luckperms.net/",
+      "icon_url": "https://luckperms.net/img/logo.b5b1477f.png"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://luckperms.net/wiki/Home"
+      },
+      {
+        "name": "Resource",
+        "value": "https://www.spigotmc.org/resources/luckperms.28140/"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://luckperms.net/download"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/LuckPerms"
+      }
+    ]
+  }
+}
