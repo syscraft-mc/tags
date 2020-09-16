@@ -1,0 +1,62 @@
+{
+	"embed": {
+
+		"description": "These are the ages of various Minecraft versions:",
+		"color": 8311585,
+		"timestamp": "{TIMESTAMP_NOW}",
+		"footer": {
+			"text": "For {USER}"
+		},
+		"fields": [{
+				"name": "1.7",
+				"value": "{1.7_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.8",
+				"value": "{1.8_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.9",
+				"value": "{1.9_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.10",
+				"value": "{1.10_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.11",
+				"value": "{1.11_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.12",
+				"value": "{1.12_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.13",
+				"value": "{1.13_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.14",
+				"value": "{1.14_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.15",
+				"value": "{1.15_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.16",
+				"value": "{1.16_AGE}",
+				"inline": true
+			}
+		]
+	}
+}
