@@ -1,0 +1,18 @@
+{
+"embed": {
+
+    "description": "Please ask the question you have. Don't ask to ask, or ask to DM someone. There are people here to help you, but we need to know what to help you with, so please just ask the question you want to in as much detail as possible!
+",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "fields": [
+      {
+        "name": "Why?",
+        "value": "https://sol.gfxile.net/dontask.html"
+      }
+    ]
+  }
+}
