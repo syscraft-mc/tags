@@ -1,7 +1,7 @@
 {
 "embed": {
 
-    "description": "```Please include as many details as possible to troubleshoot.```",
+    "description": "Please include as many details as possible to troubleshoot.",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
     "footer": {
