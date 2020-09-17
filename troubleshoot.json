@@ -1,0 +1,41 @@
+{
+"embed": {
+
+    "description": "```Please include as many details as possible to troubleshoot.```",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "fields": [
+      {
+        "name": "What behaviour is expected:",
+        "value": "What you expected to see"
+      },
+      {
+        "name": "What behaviour is observed:",
+        "value": "What you actually saw"
+      },
+      {
+        "name": "What errors are you experiencing?",
+        "value": "Please paste into here: https://bytebin.lucko.me/ and then click upload and send the link!"
+      },
+      {
+        "name": "Steps/models to reproduce:",
+        "value": "This may include a build schematic, a video, or detailed instructions to help reconstruct the issue"
+      },
+      {
+        "name": "Plugin list:",
+        "value": "A list of your plugins"
+      },
+      {
+        "name": "Server version:",
+        "value": "Paste the output of running /version on your server WITH the Minecraft version. latest is not a version; we require the output of /version so we can properly track down the issue."
+      },
+      {
+        "name": "Anything else:",
+        "value": "Anything else you think may help us resolve the problem"
+      }
+    ]
+  }
+}
