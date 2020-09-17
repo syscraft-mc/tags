@@ -16,12 +16,6 @@
       "name": "LuckPerms Verbose Mode",
       "url": "https://luckperms.net/wiki/Verbose",
       "icon_url": "https://luckperms.net/img/logo.b5b1477f.png"
-    },
-    "fields": [
-      {
-        "name": "Chat spam too much?",
-        "value": "Set a filter or use the web viewer!"
-      }
-    ]
+    }
   }
 }
