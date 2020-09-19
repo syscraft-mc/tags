@@ -9,13 +9,13 @@
       "text": "Requested by {USER}"
     },
     "thumbnail": {
-      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/LuckPerms.png"
     },
 
     "author": {
       "name": "LuckPerms",
       "url": "https://luckperms.net/",
-      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/LuckPerms.png"
     },
     "fields": [
       {
