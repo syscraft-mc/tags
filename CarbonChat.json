@@ -1,0 +1,39 @@
+{
+"embed": {
+
+    "description": "> Carbon has been designed in order to address common shortfalls of other chat plugins, as well as add a whole new suite of features that expand on what has previously been possible with even premium, closed-source chat plugins.",
+    "url": "https://github.com/Hexaoxide/Carbon",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/CarbonChat.webp"
+    },
+
+    "author": {
+      "name": "CarbonChat",
+      "url": "https://github.com/Hexaoxide/Carbon",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/CarbonChat.webp"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://github.com/Hexaoxide/Carbon/wiki"
+      },
+      {
+        "name": "Resource",
+        "value": "Coming Soon:tm:"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://chlorine.hexaoxi.de/job/Carbon/"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/S8s75Yf"
+      }
+    ]
+  }
+}
