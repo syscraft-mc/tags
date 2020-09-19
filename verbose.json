@@ -9,13 +9,13 @@
       "text": "Requested by {USER}"
     },
     "thumbnail": {
-      "url": "https://luckperms.net/img/logo.b5b1477f.png"
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
     },
 
     "author": {
       "name": "LuckPerms Verbose Mode",
       "url": "https://luckperms.net/wiki/Verbose",
-      "icon_url": "https://luckperms.net/img/logo.b5b1477f.png"
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
     }
   }
 }

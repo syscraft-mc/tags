@@ -1,7 +1,7 @@
 {
 "embed": {
 
-    "description": "```LuckPerms is an advanced permissions implementation aiming to be a fast, reliable and flexible alternative to existing permission plugins.```",
+    "description": "> LuckPerms is an advanced permissions implementation aiming to be a fast, reliable and flexible alternative to existing permission plugins.",
     "url": "https://luckperms.net/",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
@@ -9,13 +9,13 @@
       "text": "Requested by {USER}"
     },
     "thumbnail": {
-      "url": "https://luckperms.net/img/logo.b5b1477f.png"
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
     },
 
     "author": {
       "name": "LuckPerms",
       "url": "https://luckperms.net/",
-      "icon_url": "https://luckperms.net/img/logo.b5b1477f.png"
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Luckperms.png"
     },
     "fields": [
       {

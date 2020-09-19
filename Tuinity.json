@@ -8,10 +8,14 @@
     "footer": {
       "text": "Requested by {USER}"
     },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Tuinity.webp"
+    },
 
     "author": {
       "name": "Tuinity",
-      "url": "https://github.com/Spottedleaf/Tuinity"
+      "url": "https://github.com/Spottedleaf/Tuinity",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Tuinity.webp"
     },
     "fields": [
       {
