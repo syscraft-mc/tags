@@ -1,0 +1,23 @@
+{
+"embed": {
+
+    "description": "```Tuinity is a fork of Paper aimed at improving server performance at high playercounts.```",
+    "url": "https://github.com/Spottedleaf/Tuinity",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+
+    "author": {
+      "name": "Tuinity",
+      "url": "https://github.com/Spottedleaf/Tuinity"
+    },
+    "fields": [
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/CgDPu27"
+      }
+    ]
+  }
+}
