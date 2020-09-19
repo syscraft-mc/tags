@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> Spigot is a fork of CraftBukkit which provides additional performance optimizations, configuration options and features, whilst still remaining compatible with all existing plugins and consistent with Vanilla Minecraft game mechanics.",
+    "url": "https://www.spigotmc.org/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/SpigotMC.png"
+    },
+
+    "author": {
+      "name": "SpigotMC",
+      "url": "https://www.spigotmc.org/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/SpigotMC.png"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://www.spigotmc.org/wiki/index/"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://www.spigotmc.org/wiki/spigot-installation/"
+      },
+      {
+        "name": "IRC",
+        "value": "https://www.spigotmc.org/pages/irc/"
+      }
+    ]
+  }
+}

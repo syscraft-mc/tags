@@ -1,0 +1,31 @@
+{
+"embed": {
+
+    "description": "> BungeeCord is a proxy between the player's client and the connected Minecraft servers. End-users of BungeeCord see no difference between it and a normal Minecraft server.",
+    "url": "https://www.spigotmc.org/wiki/bungeecord/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/BungeeCord.png"
+    },
+
+    "author": {
+      "name": "BungeeCord",
+      "url": "https://www.spigotmc.org/wiki/bungeecord/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/BungeeCord.png"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://www.spigotmc.org/wiki/bungeecord/"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://ci.md-5.net/job/BungeeCord/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+"embed": {
+
+    "description": "> Waterfall is a fork of the well-known BungeeCord server teleportation suite.",
+    "url": "https://papermc.io/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/PaperMC.webp"
+    },
+
+    "author": {
+      "name": "Waterfall",
+      "url": "https://papermc.io/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/PaperMC.webp"
+    },
+    "fields": [
+      {
+        "name": "Downloads",
+        "value": "https://papermc.io/downloads#Waterfall"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/papermc"
+      }
+    ]
+  }
+}

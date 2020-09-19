@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> Paper is a high performance fork of the Spigot Minecraft Server that aims to fix gameplay and mechanics inconsistencies as well as to improve performance.",
+    "url": "https://papermc.io/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/PaperMC.webp"
+    },
+
+    "author": {
+      "name": "PaperMC",
+      "url": "https://papermc.io/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/PaperMC.webp"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://paper.readthedocs.io/en/latest/"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://papermc.io/downloads"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/papermc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> Sponge is a community-driven open source Minecraft: Java Edition modding platform. It supports both Vanilla Minecraft and Minecraft Forge.",
+    "url": "https://www.spongepowered.org/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Sponge.png"
+    },
+
+    "author": {
+      "name": "Sponge",
+      "url": "https://www.spongepowered.org/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Sponge.png"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://docs.spongepowered.org/"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://www.spongepowered.org/downloads/"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/sponge"
+      }
+    ]
+  }
+}

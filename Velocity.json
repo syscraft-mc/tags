@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility.",
+    "url": "https://www.velocitypowered.com/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Velocity.webp"
+    },
+
+    "author": {
+      "name": "Velocity",
+      "url": "https://www.velocitypowered.com/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Velocity.webp"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://docs.velocitypowered.com"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://www.velocitypowered.com/downloads"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/8cB9Bgf"
+      }
+    ]
+  }
+}
