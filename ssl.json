@@ -9,8 +9,8 @@
     },
     "fields": [
       {
-        "name": "Why?",
-        "value": "https://certbot.eff.org/"
+        "name": "Why should you?",
+        "value": "https://www.cloudflare.com/learning/ssl/why-use-https/"
       }
     ]
   }
