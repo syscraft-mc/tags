@@ -1,6 +1,7 @@
 {
 "embed": {
-    "author": "Please, for the sake of security, use SSL! ._.",
+    "title": "Please, for the sake of security, use TLS!",
+    "description": "Really, it could actually save you one day. 😅",
     "color": 1211535,
     "timestamp": "{TIMESTAMP_NOW}",
     "footer": {
