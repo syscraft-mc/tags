@@ -1,1 +1,17 @@
+{
+"embed": {
 
+    "description": "Please, for the sake of security, use SSL! ._.",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "fields": [
+      {
+        "name": "Why?",
+        "value": "https://certbot.eff.org/"
+      }
+    ]
+  }
+}
