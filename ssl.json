@@ -1,0 +1,17 @@
+{
+"embed": {
+    "title": "Please, for the sake of security, use TLS!",
+    "description": "Really, it could actually save you one day. 😅",
+    "color": 1211535,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "fields": [
+      {
+        "name": "Why should you?",
+        "value": "https://www.cloudflare.com/learning/ssl/why-use-https/"
+      }
+    ]
+  }
+}
