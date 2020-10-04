@@ -1,0 +1,19 @@
+{
+  "embed": {
+    "description": "> It couldn't be easier to link your player's chat to your discord server, all you have to do is create a webhook and enter it into the configuration file. This is a great replacement for DiscordSRV",
+    "color": 1262756,
+    
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://www.spigotmc.org/data/resource_icons/67/67795.jpg?1563157081"
+    },
+    "author": {
+      "name": "HiberniaDiscord » Chat to Discord Integration.",
+      "url": "https://www.spigotmc.org/resources/hiberniadiscord-%C2%BB-chat-to-discord-integration.67795/",
+      "icon_url": "https://www.spigotmc.org/data/avatars/l/350/350999.jpg?1487960083"
+    }
+  }
+}
