@@ -1,0 +1,27 @@
+{
+"embed": {
+
+    "description": "> Akarin is a fork of Tuinity aimed at multicore servers.",
+    "url": "https://github.com/Akarin-project/Akarin",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://camo.githubusercontent.com/0fb8a4bdd0410b9d19c3413b2e036af9bfc35f25/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30352f31372f356166643836396334343365662e706e67"
+    },
+
+    "author": {
+      "name": "Tuinity",
+      "url": "https://github.com/Spottedleaf/Tuinity",
+      "icon_url": "https://camo.githubusercontent.com/0fb8a4bdd0410b9d19c3413b2e036af9bfc35f25/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30352f31372f356166643836396334343365662e706e67"
+    },
+    "fields": [
+      {
+        "name": "Discord",
+        "value": "https://discord.com/invite/fw2pJAj"
+      }
+    ]
+  }
+}
