@@ -1,13 +1,13 @@
 {
 "embed": {
-
-    "description": "> Akarin is a fork of Tuinity aimed at multicore servers.",
-    
-    "description": "• Open Access - Make more game mechanics configurable.",
-    "description": "• Compatible - Support all plugins that work on Spigot.",
-    "description": "• Stability - Make the server more safe and stable.",
-    "description": "• Fast - Simplify the logic and implement multi-threaded computing.",
-
+ 
+    "description": "> Akarin is a fork of Tuinity aimed at multicore servers.
+ 
+     Open Access - Make more game mechanics configurable.
+     Compatible - Support all plugins that work on Spigot.
+     Stability - Make the server more safe and stable.
+     Fast - Simplify the logic and implement multi-threaded computing.",
+ 
     "url": "https://github.com/Akarin-project/Akarin",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
@@ -17,7 +17,7 @@
     "thumbnail": {
       "url": "https://camo.githubusercontent.com/0fb8a4bdd0410b9d19c3413b2e036af9bfc35f25/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30352f31372f356166643836396334343365662e706e67"
     },
-
+ 
     "author": {
       "name": "Akarin",
       "url": "https://github.com/Spottedleaf/Tuinity",
