@@ -1,8 +1,7 @@
 {
 "embed": {
-    "title": "Please, for the sake of security, use SSL! ._.",
-    "description": "by @𝒯𝒽𝑒 𝕽𝖊𝖆𝖑 𝐌𝐚𝐜𝐤𝐚𝐛𝐮#8089",
-    "color": 8311585,
+    "author": "Please, for the sake of security, use SSL! ._.",
+    "color": 1211535,
     "timestamp": "{TIMESTAMP_NOW}",
     "footer": {
       "text": "Requested by {USER}"
