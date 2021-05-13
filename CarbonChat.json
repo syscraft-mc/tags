@@ -1,7 +1,7 @@
 {
 "embed": {
 
-    "description": "> Carbon has been designed in order to address common shortfalls of other chat plugins, as well as add a whole new suite of features that expand on what has previously been possible with even premium, closed-source chat plugins.",
+    "description": "> Carbon has been designed in order to address common shortfalls of other chat plugins, as well as add a whole new suite of features that expand on what has previously been possible with even premium, closed-source chat plugins. Carbon is currently not ready for production use but is under heavy development.",
     "url": "https://github.com/Hexaoxide/Carbon",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
@@ -25,10 +25,6 @@
       {
         "name": "Resource",
         "value": "Coming Soon:tm:"
-      },
-      {
-        "name": "Downloads",
-        "value": "https://chlorine.hexaoxi.de/job/Carbon/"
       },
       {
         "name": "Discord",
