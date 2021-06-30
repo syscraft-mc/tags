@@ -1,7 +1,7 @@
 {
 "embed": {
 
-    "description": "Geyser is a Bukkit plugin that allows Bedrock Edition players to connect to Java Edition servers.",
+    "description": "Geyser is a program which allows Bedrock Edition players to connect to Java Edition servers. It's available for Spigot, Velocity, BungeeCord, Sponge, Fabric, and even as a standealone program users could theoretically run themselves.",
     "url": "https://geysermc.org/",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
