@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> CrashClaim is a unique claiming plugin designed with a survival server in mind, created out of the need to provide an advanced yet simple and intuitive claiming experience to the masses.",
+    "url": "https://www.spigotmc.org/resources/94037/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/CrashClaim.webp"
+    },
+
+    "author": {
+      "name": "CrashClaim",
+      "url": "https://www.spigotmc.org/resources/94037/",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/CrashClaim.webp"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://github.com/WhipDevelopment/CrashClaim/wiki"
+      },
+      {
+        "name": "Download",
+        "value": "https://www.spigotmc.org/resources/94037/"
+      },
+      {
+        "name": "Discord",
+        "value": "https://whips.dev/discord/"
+      }
+    ]
+  }
+}
