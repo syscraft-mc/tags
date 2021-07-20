@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> Purpur is a fork of Tuinity aimed at adding configuration and features to your Minecraft server.",
+    "url": "https://purpur.pl3x.net/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Purpur.svg"
+    },
+
+    "author": {
+      "name": "Purpur",
+      "url": "https://github.com/pl3xgaming/Purpur",
+      "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Purpur.svg"
+    },
+    "fields": [
+      {
+        "name": "Website",
+        "value": "https://purpur.pl3x.net"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/mtAAnkk"
+      },
+      {
+        "name": "GitHub",
+        "value": "https://github.com/pl3xgaming/Purpur"
+      }
+    ]
+  }
+}
