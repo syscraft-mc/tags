@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "Geyser is a program which allows Bedrock Edition players to connect to Java Edition servers. It's available for Spigot, Velocity, BungeeCord, Sponge, Fabric, and even as a standealone program users could theoretically run themselves.",
+    "url": "https://geysermc.org/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://avatars.githubusercontent.com/u/52673035?s=200&v=4"
+    },
+
+    "author": {
+      "name": "GeyserMC",
+      "url": "https://geysermc.org/",
+      "icon_url": "https://avatars.githubusercontent.com/u/52673035?s=200&v=4"
+    },
+    "fields": [
+      {
+        "name": "Downloads",
+        "value": "https://ci.geysermc.org/"
+      },
+      {
+        "name": "Wiki",
+        "value": "https://github.com/GeyserMC/Geyser/wiki/Setup"
+      }
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/geysermc"
+      }
+    ]
+  }
+}
