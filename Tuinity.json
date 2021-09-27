@@ -2,7 +2,7 @@
 "embed": {
 
     "description": "> Tuinity was a fork of Paper aimed at improving server performance at high playercounts now merged into Paper",
-    "url": "https://github.com/Tuinity/Tuinity",
+    "url": "https://github.com/PaperMC/Paper",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
     "footer": {
@@ -13,14 +13,14 @@
     },
 
     "author": {
-      "name": "Tuinity",
-      "url": "https://github.com/Tuinity/Tuinity",
+      "name": "PaperMC",
+      "url": "https://github.com/PaperMC/Paper",
       "icon_url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/Tuinity.webp"
     },
     "fields": [
       {
         "name": "Discord",
-        "value": "https://discord.gg/CgDPu27"
+        "value": "https://discord.gg/papermc"
       }
     ]
   }
