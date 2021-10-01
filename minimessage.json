@@ -1,0 +1,19 @@
+{
+"embed": {
+
+    "description": "> MiniMessage is a string based format to represent Minecraft chat components in a human-readable format that is easy to edit. It is compatible with Adventure.",
+    "url": "https://docs.adventure.kyori.net/minimessage",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "fields": [
+      {
+        "name": "Docs",
+        "value": "https://docs.adventure.kyori.net/minimessage"
+      },
+      {
+        "name": "Adventure",
+        "value": "https://docs.adventure.kyori.net/"
+      }
+    ]
+  }
+}
