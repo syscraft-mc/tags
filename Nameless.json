@@ -1,0 +1,34 @@
+{
+"embed": {
+
+    "description": "> NamelessMC is a free, easy-to-use and powerful website software for your Minecraft server, which includes a wide range of functions.",
+    "url": "https://docs.namelessmc.com/en/home",
+    "color": 292999,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://i.imgur.com/gt8uezk.png"
+    },
+    "author": {
+      "name": "NamelessMC",
+      "url": "https://namelessmc.com/",
+      "icon_url": "https://namelessmc.com/uploads/avatars/defaults/15a1d8fbaef6dd_olqikfemgjnhp.png"
+    },
+    "fields": [
+      {
+        "name": "FAQ",
+        "value": "https://docs.namelessmc.com/en/faq"
+      },
+      {
+        "name": "Resources",
+        "value": "https://namelessmc.com/resources/"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/nameless"
+      }
+    ]
+  }
+}
