@@ -1,0 +1,23 @@
+{
+"embed": {
+
+    "description": "> The Starter Server is a GitHub repository that intends to walk people through creating a basic Minecraft server for the first time, as easily as possible.",
+    "url": "https://github.com/syscraft-mc/starter-server",
+    "color": 229987,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "Syscraft Starter Server",
+      "url": "https://github.com/syscraft-mc/starter-server",
+      "icon_url": ""
+    },
+    "fields": [
+      {
+        "name": "Repository",
+        "value": "https://github.com/syscraft-mc/starter-server"
+      }
+    ]
+  }
+}
