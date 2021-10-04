@@ -3,13 +3,13 @@
 
     "description": "> NamelessMC is a free, easy-to-use and powerful website software for your Minecraft server, which includes a wide range of functions.",
     "url": "https://docs.namelessmc.com/en/home",
-    "color": "24a3ed",
+    "color": 292999,
     "timestamp": "{TIMESTAMP_NOW}",
     "footer": {
       "text": "Requested by {USER}"
     },
     "thumbnail": {
-      "url": "https://raw.githubusercontent.com/syscraft-mc/tags/master/logos/LuckPerms.png"
+      "url": "https://i.imgur.com/gt8uezk.png"
     },
     "author": {
       "name": "NamelessMC",
