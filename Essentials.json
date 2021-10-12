@@ -1,0 +1,35 @@
+{
+"embed": {
+
+    "description": "> EssentialsX is the essential plugin suite for Minecraft servers, with over 130 commands for servers of all size and scale.",
+    "url": "https://essentialsx.net/",
+    "color": 8311585,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "thumbnail": {
+      "url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png"
+    },
+
+    "author": {
+      "name": "EssentialsX",
+      "url": "https://essentialsx.net/",
+      "icon_url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png"
+    },
+    "fields": [
+      {
+        "name": "Wiki",
+        "value": "https://essentialsx.net/wiki/Home.html"
+      },
+      {
+        "name": "Downloads",
+        "value": "https://essentialsx.net/downloads.html"
+      },
+      {
+        "name": "Discord",
+        "value": "https://discord.gg/h8CnPSw"
+      }
+    ]
+  }
+}
