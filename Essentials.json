@@ -9,13 +9,13 @@
       "text": "Requested by {USER}"
     },
     "thumbnail": {
-      "url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png"
+      "url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png?raw=true"
     },
 
     "author": {
       "name": "EssentialsX",
       "url": "https://essentialsx.net/",
-      "icon_url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png"
+      "icon_url": "https://github.com/EssentialsX/Website/blob/master/images/essx-logo-big.png?raw=true"
     },
     "fields": [
       {
