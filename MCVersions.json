@@ -56,6 +56,16 @@
 				"name": "1.16",
 				"value": "{1.16_AGE}",
 				"inline": true
+			},
+			{
+				"name": "1.17",
+				"value": "{1.17_AGE}",
+				"inline": true
+			},
+			{
+				"name": "1.18",
+				"value": "{1.18_AGE}",
+				"inline": true
 			}
 		]
 	}
