@@ -1,7 +1,7 @@
 {
 "embed": {
 
-    "description": "Luckperms's **Verbose Mode** is used for finding permissions. For instance, if a plugin doesn't have documentation...or if you're lazy :P\nhttps://luckperms.net/wiki/Verbose",
+    "description": "Luckperms's **Verbose Mode** is used for finding permissions. For instance, if a plugin doesn't have documentation...or if you're too lazy to find it :P\nhttps://luckperms.net/wiki/Verbose",
     "url": "https://luckperms.net/wiki/Verbose",
     "color": 8311585,
     "timestamp": "{TIMESTAMP_NOW}",
